@@ -1,0 +1,36 @@
+//https://www.000webhost.com/members/website/duliet1/files
+//http://duliet1.000webhostapp.com/layTruyen.php
+
+
+[
+{
+tenTruyen: "Stalker x Stalker",
+tenChap: "Chapter 38",
+linkAnh: "http://st.imageinstant.net/data/comics/154/stalker-x-stalker.jpg",
+},
+{
+tenTruyen: "Change (JinYuan)",
+tenChap: "Chapter 101",
+linkAnh: "http://st.imageinstant.net/data/comics/225/change-jinyuan.jpg",
+},
+{
+tenTruyen: "Quyển sổ báo thù",
+tenChap: "Chapter 38",
+linkAnh: "http://st.imageinstant.net/data/comics/160/quyen-so-bao-thu.jpg",
+},
+{
+tenTruyen: "Real Account II",
+tenChap: "Chapter 165",
+linkAnh: "http://st.imageinstant.net/data/comics/189/real-account-ii.jpg",
+},
+{
+tenTruyen: "Đại Sư Phụ Hạ Sơn",
+tenChap: "Chapter 8",
+linkAnh: "http://st.imageinstant.net/data/comics/249/dai-su-phu-ha-son.jpg",
+},
+{
+tenTruyen: "Siêu Đạo Thần Thuật",
+tenChap: "Chapter 33",
+linkAnh: "http://st.imageinstant.net/data/comics/64/sieu-dao-than-thuat.jpg",
+},
+]
