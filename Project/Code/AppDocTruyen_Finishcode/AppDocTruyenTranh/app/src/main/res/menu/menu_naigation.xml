@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menuTrangChu"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Trang chủ"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menuYeuThich"
+        android:icon="@drawable/icons8_star_black"
+        android:title="Danh sách yêu thích"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/menuDangXuat"
+        android:icon="@drawable/ic_baseline_exit_to_app_24"
+        android:title="Đăng xuất"
+        app:showAsAction="withText" />
+</menu>
